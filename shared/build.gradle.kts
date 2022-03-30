@@ -19,16 +19,14 @@ version = "0.0.1-SNAPSHOT"
 // END IMPORTANT
 
 kotlin {
-    // This is another (Optional) way of setting yourself up to generate an iOS library
-//    iosX64 {
-//        binaries {
-//            framework {
-//                baseName = "shared"
-//            }
-//        }
-//    }
     android()
-    iosX64()
+    iosX64 {
+        binaries {
+            framework {
+                baseName = "shared"
+            }
+        }
+    }
     iosArm64()
     iosSimulatorArm64()
 
