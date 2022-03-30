@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tradesy KMM App</string>
+    <string name="retry_text">Retry</string>
+    <string name="generic_error_text">An unknown server error occurred.</string>
+</resources>

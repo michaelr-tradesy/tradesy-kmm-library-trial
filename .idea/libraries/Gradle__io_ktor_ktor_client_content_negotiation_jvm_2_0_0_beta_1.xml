@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-content-negotiation-jvm:2.0.0-beta-1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-content-negotiation-jvm/2.0.0-beta-1/bd658e4d588985fbed20aea8204140c6bda63415/ktor-client-content-negotiation-jvm-2.0.0-beta-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-content-negotiation-jvm/2.0.0-beta-1/b9b8598c804c2edbe28d80459c57b42414caba8e/ktor-client-content-negotiation-jvm-2.0.0-beta-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-content-negotiation-jvm/2.0.0-beta-1/af5a0066302e7b5637ae1a6824beb941ede515a5/ktor-client-content-negotiation-jvm-2.0.0-beta-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

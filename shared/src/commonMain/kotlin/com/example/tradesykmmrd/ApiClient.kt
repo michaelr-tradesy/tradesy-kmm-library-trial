@@ -11,10 +11,7 @@ import io.ktor.serialization.kotlinx.json.*
 import kotlinx.serialization.json.Json
 
 
-interface ApiClient {
-}
-
-class DefaultApiClient: ApiClient {
+class ApiClient {
     suspend fun ktorIO(): HttpResponse {
         val client = HttpClient()
         val response: HttpResponse = client.get("https://ktor.io/")

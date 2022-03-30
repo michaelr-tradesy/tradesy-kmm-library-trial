@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tradesy_KMM_RD.iml" filepath="$PROJECT_DIR$/.idea/modules/Tradesy_KMM_RD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.androidAndroidTestRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.androidAndroidTestRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.androidTestFixtures.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.androidTestFixtures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.androidTestFixturesDebug.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.androidTestFixturesDebug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.androidTestFixturesRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.androidTestFixturesRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosSimulatorArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosSimulatorArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosSimulatorArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosSimulatorArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Tradesy_KMM_RD.shared.iosX64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tradesykmmapp/Tradesy_KMM_RD.tradesykmmapp.iml" filepath="$PROJECT_DIR$/.idea/modules/tradesykmmapp/Tradesy_KMM_RD.tradesykmmapp.iml" />
+    </modules>
+  </component>
+</project>

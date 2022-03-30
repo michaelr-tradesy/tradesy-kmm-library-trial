@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-websockets:commonMain:2.0.0-beta-1" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.Tradesy_KMM_RD/commonMain/implementation/io.ktor-ktor-websockets/io.ktor-ktor-websockets-commonMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-websockets/2.0.0-beta-1/c14195f5db0cfd8a3a4814f49a15b198328b59f7/ktor-websockets-2.0.0-beta-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-network-iossimulatorarm64:klib:2.0.0-beta-1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network-iossimulatorarm64/2.0.0-beta-1/b33c1540327d0ab243c6215a129819d8a5d87ecc/ktor-network.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network-iossimulatorarm64/2.0.0-beta-1/f96d837b5eea23b7caebf6c7ada1470864adffcc/ktor-network-iossimulatorarm64-2.0.0-beta-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

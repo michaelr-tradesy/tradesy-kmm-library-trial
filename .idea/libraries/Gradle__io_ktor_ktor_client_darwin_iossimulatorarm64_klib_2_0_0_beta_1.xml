@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-darwin-iossimulatorarm64:klib:2.0.0-beta-1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-darwin-iossimulatorarm64/2.0.0-beta-1/697c3ed0933eaed70c0aeac8ac4d2f9b63b4570b/ktor-client-darwin.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-darwin-iossimulatorarm64/2.0.0-beta-1/b2298c89b3d5bc610827b73b3e853bfe73b59086/ktor-client-darwin-iossimulatorarm64-2.0.0-beta-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

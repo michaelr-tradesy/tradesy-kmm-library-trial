@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-network:iosMain:2.0.0-beta-1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.Tradesy_KMM_RD/commonTest/implementation/io.ktor-ktor-network/io.ktor-ktor-network-iosMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network/2.0.0-beta-1/5ca56330d37b9c5c08c6371feb56e2c7703aa9ac/ktor-network-2.0.0-beta-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -8,3 +8,4 @@ pluginManagement {
 
 rootProject.name = "Tradesy_KMM_RD"
 include(":shared")
+include(":tradesykmmapp")

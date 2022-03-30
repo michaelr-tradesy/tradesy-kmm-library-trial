@@ -12,17 +12,21 @@ plugins {
     id("maven-publish")
 }
 
+// IMPORTANT
+// The name and version of this library
 group = "com.example.tradesykmmrd"
-version = "1.0.0"
+version = "0.0.1-SNAPSHOT"
+// END IMPORTANT
 
 kotlin {
-    iosX64 {
-        binaries {
-            framework {
-                baseName = "shared"
-            }
-        }
-    }
+    // This is another (Optional) way of setting yourself up to generate an iOS library
+//    iosX64 {
+//        binaries {
+//            framework {
+//                baseName = "shared"
+//            }
+//        }
+//    }
     android()
     iosX64()
     iosArm64()

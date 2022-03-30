@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-events:commonMain:2.0.0-beta-1" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.Tradesy_KMM_RD/commonMain/implementation/io.ktor-ktor-events/io.ktor-ktor-events-commonMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-events/2.0.0-beta-1/4f7acd19511dd9ab8fa5a2f851ba31b16bd4b115/ktor-events-2.0.0-beta-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

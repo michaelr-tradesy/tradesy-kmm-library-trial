@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-utils:nixMain:2.0.0-beta-1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.Tradesy_KMM_RD/commonTest/implementation/io.ktor-ktor-utils/io.ktor-ktor-utils-nixMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils/2.0.0-beta-1/340f81656af470adee407378a06139431a7a99db/ktor-utils-2.0.0-beta-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
